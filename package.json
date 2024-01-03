@@ -1,0 +1,27 @@
+{
+  "name": "node_skeleton",
+  "version": "1.0.0",
+  "description": "A blank node project, you probably only ever want to clone this to start your package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'this is node_skeleton, we have nothing to test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delboy1978uk/node_skeleton.git"
+  },
+  "keywords": [
+    "node",
+    "blank",
+    "skeleton",
+    "project",
+    "publish",
+    "template"
+  ],
+  "author": "Derek Stephen McLean (delboy1978uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delboy1978uk/node_skeleton/issues"
+  },
+  "homepage": "https://github.com/delboy1978uk/node_skeleton#readme"
+}
